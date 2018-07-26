@@ -15,7 +15,7 @@ default_training_data = np.array([[1, 1,1,0],
 default_training_labels = np.array([1, 1, 1, 1, 1, 0, 0, 0, 0, 0])
 default_target = np.array([[0, 0,1,0], [1, 1,1,0], [1,0,1,0]])
 
-
+print(default_training_data)
 class NaiveBayesClassifier:
     """ This class demonstrates the Gaussian Naive Bayes Classifier
         http://scikit-learn.org/stable/modules/naive_bayes.html
