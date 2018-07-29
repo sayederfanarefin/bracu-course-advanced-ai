@@ -7,6 +7,7 @@ import numpy as np
 from sklearn.naive_bayes import GaussianNB
 
 train_total = 140
+target_total = 10
 
 #get file 
 file_location = "Book1.xlsx"
@@ -40,7 +41,6 @@ petal_width_encoded = petal_width_encoder.fit_transform(petal_width)
 
 species_encoded = species_encoder.fit_transform(species)
 
-
 #data prep for naive guy
 #training data
 default_training_data = np.array([[0, 0,0,0]])
@@ -71,7 +71,7 @@ print(default_training_labels)
 
 #target
 default_target = np.array([[0, 0,0,0]])
-target_total = 10
+
 
 #get data from file
 sepal_length2 = [first_sheet.cell_value(i, 1) for i in range(train_total, train_total+target_total)]
@@ -100,7 +100,8 @@ petal_length_encoded2 = petal_length_encoder2.fit_transform(petal_length2)
 petal_width_encoded2 = petal_width_encoder2.fit_transform(petal_width2)
 
 species_encoded2 = species_encoder2.fit_transform(species2)
-
+print("result expected")
+print(species_encoded2)
 
 #data prep for naive guy
 #target data
