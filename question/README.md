@@ -117,8 +117,7 @@ discriminant model to distinguish the species from each other.
 Use of the data set
 -------------------
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iris\_Flowers\_Clustering\_kMeans.svg/220px-Iris\_Flowers\_Clustering\_kMeans.svg.png){width="2.2916666666666665in"
-height="1.0729166666666667in"}
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iris\_Flowers\_Clustering\_kMeans.svg/220px-Iris\_Flowers\_Clustering\_kMeans.svg.png)
 
 Unsatisfactory [k-means
 clustering](https://en.wikipedia.org/wiki/K-means_clustering) result
@@ -126,8 +125,7 @@ clustering](https://en.wikipedia.org/wiki/K-means_clustering) result
 species visualized using
 [ELKI](https://en.wikipedia.org/wiki/Environment_for_DeveLoping_KDD-Applications_Supported_by_Index-Structures)
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Principal\_tree\_for\_Iris\_data\_set.png/220px-Principal\_tree\_for\_Iris\_data\_set.png](media/image2.png){width="2.2916666666666665in"
-height="1.3333333333333333in"}
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Principal\_tree\_for\_Iris\_data\_set.png/220px-Principal\_tree\_for\_Iris\_data\_set.png)
 
 An example of the so-called "metro map" for the *Iris* data
 set.[^\[4\]^](https://en.wikipedia.org/wiki/Iris_flower_data_set#cite_note-GorbanZinovyev2010-4)
@@ -181,18 +179,15 @@ Data Set
 The dataset contains a set of 150 records under 5 attributes - Petal
 Length , Petal Width , Sepal Length , Sepal width and Class.
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris\_versicolor\_3.jpg/220px-Iris\_versicolor\_3.jpg](media/image3.jpeg){width="2.2916666666666665in"
-height="1.71875in"}
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris\_versicolor\_3.jpg/220px-Iris\_versicolor\_3.jpg)
 
 [**Iris versicolor**](https://en.wikipedia.org/wiki/Iris_versicolor)
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris\_virginica.jpg/220px-Iris\_virginica.jpg](media/image4.jpeg){width="2.2916666666666665in"
-height="1.8645833333333333in"}
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris\_virginica.jpg/220px-Iris\_virginica.jpg)
 
 [**Iris virginica**](https://en.wikipedia.org/wiki/Iris_virginica)
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Spectramap\_Biplot\_Iris\_Flower\_Data\_Set\_FULL.jpg/220px-Spectramap\_Biplot\_Iris\_Flower\_Data\_Set\_FULL.jpg](media/image5.jpeg){width="2.2916666666666665in"
-height="1.46875in"}
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Spectramap\_Biplot\_Iris\_Flower\_Data\_Set\_FULL.jpg/220px-Spectramap\_Biplot\_Iris\_Flower\_Data\_Set\_FULL.jpg)
 
 Spectramap biplot of Fisher's iris data set
 
