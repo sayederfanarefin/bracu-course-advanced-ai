@@ -1,14 +1,8 @@
 # Advnace AI Course Mid Term Questions and Solution 2018
 
 ## The questions are as follows:
-BRAC University Advanced AI 
-============================
-
-CSE 710
-=======
-
-MID Term 2018
-=============
+### BRAC University Advanced AI 
+#### CSE 710 MID Term 2018
 
 **Total : 100** **Time: 48 Hours** (Take Home Open Book Exam. Students
 are not permitted to discuss among each other.)
