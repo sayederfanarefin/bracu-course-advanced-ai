@@ -1,5 +1,8 @@
 # Advnace AI Course Mid Term Questions and Solution 2018
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 ## The questions are as follows:
 ### BRAC University Advanced AI 
 #### CSE 710 MID Term 2018
