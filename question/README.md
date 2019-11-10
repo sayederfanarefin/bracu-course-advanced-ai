@@ -43,9 +43,7 @@ the class (Nominal). **\[ More Description of the dataset is given\]**
 
     d.  Summarize Dataset
 
-    e.  Summarize attribute by class
-
-        What insights do you get from doing the above ?
+    e.  Summarize attribute by class, What insights do you get from doing the above ?
 
 4.  Now you can do the prediction. Do the followings : **\[40 points\]**
 
@@ -57,26 +55,25 @@ the class (Nominal). **\[ More Description of the dataset is given\]**
 
     d.  Estimate accuracy
 
-> The task is to assign a New data to one or more classes or categories
-> is classification or categorization.
+> The task is to assign a New data to one or more classes or categories is classification or categorization.
 
-The following results are required:
+    The following results are required:
 
-Correctly Classified Instances
+    i. Correctly Classified Instances
 
-Incorrectly Classified Instances
+    ii. Incorrectly Classified Instances
 
-Kappa Statistic
+    iii. Kappa Statistic
 
-Mean Absolute Error
+    iv. Mean Absolute Error
 
-Root Mean absolute Error
+    v. Root Mean absolute Error
 
-Root Relative Squared Error
+    vi. Root Relative Squared Error
 
-Total Number of Instances
+    vii. Total Number of Instances
 
-1.  Build a Confusion matrix. With the help of it, how many of the data
+5.  Build a Confusion matrix. With the help of it, how many of the data
     are rightly classified as Iris-setosa, Iris-versicolor and
     iris-virginica. How many of them were wrongly classified. Can you
     explain why the wrong classifications may have happened? **\[ 15
@@ -120,7 +117,7 @@ discriminant model to distinguish the species from each other.
 Use of the data set
 -------------------
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iris\_Flowers\_Clustering\_kMeans.svg/220px-Iris\_Flowers\_Clustering\_kMeans.svg.png](media/image1.png){width="2.2916666666666665in"
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iris\_Flowers\_Clustering\_kMeans.svg/220px-Iris\_Flowers\_Clustering\_kMeans.svg.png){width="2.2916666666666665in"
 height="1.0729166666666667in"}
 
 Unsatisfactory [k-means
