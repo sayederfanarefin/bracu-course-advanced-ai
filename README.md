@@ -1,6 +1,6 @@
 # Advnace AI Course Mid Term Questions and Solution 2018
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) [![HitCount](http://hits.dwyl.io/sayederfanarefin/bracu-course-advanced-ai.svg)](http://hits.dwyl.io/sayederfanarefin/bracu-course-advanced-ai)
 
 ## The questions are as follows:
 ### BRAC University Advanced AI 
